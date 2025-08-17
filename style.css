@@ -1,0 +1,86 @@
+html {
+  height: 1334px;
+  width: 750px;
+  max-width: 750px;
+  max-height: 1334px;
+}
+
+body {
+  background-color: #36373e;
+}
+
+.DiscordTitle {
+  color: #ffffff;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 35px;
+  margin-left: 110px;
+}
+
+.discordLogo{
+  width: 100px;
+  width: 100px;
+
+  position: absolute;
+  top: 30px;
+  left: 5px;
+}
+
+.departage{
+  color: #606169;
+
+  width: 750px;
+  height: 1px;
+
+  position: absolute;
+  top: 150px;
+  left: 0px;
+}
+
+.nom{
+  color: #FFF;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  position: absolute;
+  top: 160px;
+  left: 242px;
+}
+
+.prenom{
+  color: #FFF;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  position: absolute;
+  top: 210px;
+  left:195px;
+}
+
+.username{
+  color: #FFF;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  position: absolute;
+  top: 260px;
+  left: 60px;
+}
+
+.text{
+  background-color: #36373e;
+  color: #FFF;
+  font-size: 25px;
+
+  position: absolute;
+  top: 400px;
+  left: 20px;
+
+  width: 730px;
+  height: 700px;
+
+  border: none;
+}
+
+
